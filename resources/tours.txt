@@ -1,0 +1,5 @@
+Lago Llanquihue;Lacustre;12000
+Volcan Osorno;Aventura;18000
+Saltos del Petrohue;Naturaleza;15000
+Isla Tenglo;Cultural;10000
+Frutillar;Gastronomico;20000
